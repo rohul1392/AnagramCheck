@@ -1,0 +1,15 @@
+{
+  "name": "Anagrams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagrams.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
